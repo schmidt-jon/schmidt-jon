@@ -2,8 +2,8 @@
 
 This is the GitHub profile of Jonathan Schmidt:
 
-- I am a Master student in Pre- and protohistoric Archaeology at *Goethe-University Frankfurt*
-- Currently I am studying abroad at the *Université Neuchâtel*, Institut d'archéologie et des sciences de l'Antiquité
+- I am a Master student in Pre- and protohistoric Archaeology at *Goethe-University Frankfurt*.
+- Currently I am studying abroad at the *Université Neuchâtel*, Institut d'archéologie et des sciences de l'Antiquité.
 - My research interests are Settlement and Economic Archaeology during the Iron and Bronze Age as well as the application of metal analyses and multivariate statistics in Archaeology.
 
 My contact adress is: schmidt_jon@gmx.de
